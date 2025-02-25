@@ -18,6 +18,8 @@ public class Circle  {
      * @param radius The radius of the circle created
      */
     public Circle(Point centre, double radius) {
+        public double getRadius()
+        
 
     }
 
